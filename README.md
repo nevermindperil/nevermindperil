@@ -1,8 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Nevermidperil&fontSize=90" />
 
-<hr>
-
-
 <h3>STACKS</h3>
 <hr>
 <div>
