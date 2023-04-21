@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving)
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=capsule%20render&fontSize=90" />
 
 <h3>STATS</h3>
