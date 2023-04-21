@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Nevermidperil&fontSize=90" />
 
-<h3>STACKS</h3>
+<h3>🚩STACKS</h3>
 <hr>
 <div>
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
 </div>
 
-<h3>STATS</h3>
+<h3>🚩STATS</h3>
 <hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nevermindperil&theme=radical&layout=compact&)](https://github.com/nevermindperil/github-readme-stats)  
