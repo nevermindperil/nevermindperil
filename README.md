@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Nevermidperil&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Nevermindperil&fontSize=90" />
 
 <h3>🚩STACKS</h3>
 <hr>
